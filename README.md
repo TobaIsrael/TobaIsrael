@@ -4,7 +4,7 @@
 
 ### Bio:
 
-Toba Israel is a talented software engineer with a passion for Fullstack development and expertise in Python.
+Toba Israel is a passionate software engineer specializing in Fullstack development with expertise in Python.
             
 
 ### Streetcred:
@@ -31,7 +31,7 @@ Toba Israel is a talented software engineer with a passion for Fullstack develop
             
 
 ### summary
-*Toba Israel is a talented software engineer with a passion for Fullstack development and expertise in Python.*
+*Toba Israel is a passionate software engineer specializing in Fullstack development with expertise in Python.*
 
             
 </div>
